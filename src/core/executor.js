@@ -75,7 +75,7 @@ export class Executor {
       };
     }
 
-    /* we coul do soemthing like this
+    /* we could do soemthing like this
     const provider = getProvider(modelName)
     const response = await provider.generateContent({
       model: modelName,
